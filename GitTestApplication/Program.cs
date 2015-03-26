@@ -13,6 +13,8 @@ namespace GitTestApplication
             int x = 1;
 
             x = x * 2;
+
+            x = x * 3;
         }
     }
 }
