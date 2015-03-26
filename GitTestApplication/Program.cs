@@ -10,6 +10,9 @@ namespace GitTestApplication
     {
         static void Main(string[] args)
         {
+            int x = 1;
+
+            x = x * 2;
         }
     }
 }
