@@ -12,9 +12,15 @@ namespace GitTestApplication
         {
             int x = 1;
 
-            x = x * 2;
+            x = x * 5; // branch a
 
             x = x * 3;
+
+            x = x * 5; // branch a
+
+            x = x * 1;
+
+            x = x * 5; // branch a
         }
     }
 }
